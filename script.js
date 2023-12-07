@@ -3,5 +3,5 @@ function functionName() {
     alert("functionName");
 }
 
-// Example usage
+
 functionName();
